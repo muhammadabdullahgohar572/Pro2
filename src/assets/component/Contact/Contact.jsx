@@ -400,6 +400,7 @@ export const Contact = () => {
               className="w-[70%] hover:drop-shadow-2xl hover:transition  hover:ease-in-out   hover:delay-150 hover:-translate-y-1 hover:scale-110  duration-300 text-align: center justify-content: center  align-items: center ml-[10%]"
             />
           </div>
+          {/* ok */}
           <div>
             <img
               src={four}
